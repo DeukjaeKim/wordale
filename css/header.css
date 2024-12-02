@@ -1,0 +1,16 @@
+.info-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-bottom: 10px;
+  font-weight: bolder;
+}
+
+.info-bar-icons img {
+  width: 30px;
+}
+
+.info-bar-name {
+  padding-left: 400px;
+  border: 0vw;
+}
